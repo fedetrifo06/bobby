@@ -1,3 +1,6 @@
+### 4.0.1
+- Update to Minecraft 1.19.2
+
 ### 4.0.0
 - Update to Minecraft 1.19
 
